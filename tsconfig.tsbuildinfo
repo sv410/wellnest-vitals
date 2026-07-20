@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/pages/camerameasure.tsx","./src/pages/comparison.tsx","./src/pages/dashboard.tsx","./src/pages/entryform.tsx","./src/pages/history.tsx","./src/pages/research.tsx","./src/pages/wearables.tsx"],"errors":true,"version":"5.9.3"}
